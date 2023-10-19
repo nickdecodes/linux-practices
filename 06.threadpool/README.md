@@ -433,9 +433,9 @@ clean:
 
 ## 执行结果
 
-![threadpool-test](../threadpool/pic/threadpool-test.png)
+![threadpool-test](./threadpool/pic/threadpool-test.png)
 
 # 线程池机制
 
-![threadpool-jz](../threadpool/pic/threadpool-jz.png)
+![threadpool-jz](./threadpool/pic/threadpool-jz.png)
 
